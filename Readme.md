@@ -2,6 +2,11 @@
 tfa is 2fa cli tool that aim to help you to generate 2fa code on CI/CD pipelines.
 
 You can provide secret with stdin or flag.
+## Install 
+
+```shell
+brew install theykk/tap/tfa
+```
 
 ## Flag usage
 ```shell
